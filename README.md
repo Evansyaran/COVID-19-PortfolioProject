@@ -32,6 +32,7 @@
 # 7. Ensuring Data Integrity
 
 🔹 Verify total case counts align with subcategories (e.g., sum of states = national total)
+
 🔹 Check for logical inconsistencies (e.g., deaths > confirmed cases)
 
 This process ensures clean, reliable, and accurate COVID-19 data for analysis and visualization. 🚀
